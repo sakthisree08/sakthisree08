@@ -1,16 +1,20 @@
-## Hi there 👋
+# 🎮 Player: Sakthi Sree
 
-<!--
-**sakthisree08/sakthisree08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+Level        : Final-Year IT Student
+Class        : Software Engineer
+XP           : +1 after every bug fixed
+Side Quests  : Open Source • AI • DSA
+Main Quest   : Build technology that creates impact
+Health       : ☕ + Music
+```
 
-Here are some ideas to get you started:
+### Current Objectives
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* [x] Learn something new
+* [x] Build something useful
+* [x] Break a few things
+* [x] Fix them better than before
+* [ ] Never stop growing
+
+*"Progress isn't measured by perfection—it's measured by persistence."*
