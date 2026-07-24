@@ -10,21 +10,6 @@
 
 ---
 
-# SYSTEM INITIALIZATION
-
-```bash
-> boot sakthi.exe
-
-Loading curiosity............... ██████████ 100%
-Loading creativity.............. ██████████ 100%
-Loading caffeine................ ██████████ 100%
-Loading Git..................... ██████████ 100%
-
-System Status:
-🟢 ONLINE
-```
-
----
 
 ## 🛰️ DEVELOPER STATUS
 
@@ -63,30 +48,6 @@ Side Quests:
 [✓] New Bugs Created
 [✓] Learning Continues...
 ```
-
----
-
-#  GITHUB ANALYTICS
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sakthisree08&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakthisree08&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=sakthisree08&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sakthisree08&theme=tokyo-night&hide_border=true"/>
-
-</div>
 
 ---
 
