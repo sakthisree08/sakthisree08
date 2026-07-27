@@ -38,22 +38,6 @@ Side Quests:
 
 ---
 
-##  SYSTEM LOG
-
-```text
-[✓] Curiosity Loaded
-[✓] Coffee Detected
-[✓] Git Initialized
-[✓] Bugs Fixed
-[✓] New Bugs Created
-[✓] Learning Continues...
-```
-
----
-
-
-
-
 
 # RANDOM THOUGHT
 
@@ -72,4 +56,3 @@ Side Quests:
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:00E5FF,100:6C63FF&height=120&section=footer"/>
